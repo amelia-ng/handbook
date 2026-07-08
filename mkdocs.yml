@@ -1,3 +1,6 @@
+site_url: https://amelia-ng.github.io/interview-prep/
+use_directory_urls: false
+
 site_name: Interview Prep for Data Science, Machine Learning, and AI
 
 site_description: With an application for Automotive industry
@@ -80,6 +83,5 @@ nav:
       - Project: exp/project/index.md
       - Experience: exp/experience/index.md
 
-site_url: https://amelia-ng.github.io/interview-prep/
 
  
