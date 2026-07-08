@@ -1,0 +1,84 @@
+site_name: Interview Prep for Data Science, Machine Learning, and AI
+
+site_description: With an application for Automotive industry
+
+theme:
+  name: material
+
+  palette:
+
+    - scheme: default
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  font:
+    text: Lora
+    code: JetBrains Mono
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.expand
+    - navigation.tracking
+    - navigation.path
+    - content.code.copy
+
+markdown_extensions:
+
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+
+  - Home: index.md
+  - Math & Stats:
+      - Math: math-stats/math/index.md
+      - Statistics: math-stats/statistics/index.md
+  - Coding:
+      - Computer Science: coding/computer-science/index.md
+      - Data Structures: coding/data-structures/index.md
+  - Machine Learning:
+      - ML Workflow: machine-learning/ml-workflow/index.md
+      - ML Algorithms: machine-learning/ml-algorithms/index.md
+  - Deep Learning:
+      - Overview: deep-learning/index.md
+  - AI:
+      - Overview: ai/index.md
+  - Non-Technical:
+      - Behavioral: non-tech/behavioral/index.md
+      - Benefit: non-tech/benefit/index.md
+  - Automotive:
+      - Overview: automotive/index.md
+  - Experiences:
+      - Analytics: exp/analytics/index.md
+      - Project: exp/project/index.md
+      - Experience: exp/experience/index.md
+
+
+ 
