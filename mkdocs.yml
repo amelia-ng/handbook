@@ -44,7 +44,6 @@ theme:
 plugins:
   - search
   - awesome-nav
-  - literate-nav
 
 markdown_extensions:
 
