@@ -1,7 +1,7 @@
-site_url: https://amelia-ng.github.io/interview-prep/
+site_url: https://amelia-ng.github.io/handbook/
 use_directory_urls: false
 
-site_name: Interview Handbook for Data Science, Machine Learning, and AI
+site_name: Handbook for Data Science, ML, and AI in Automotive Industry
 
 site_description: With an application for Automotive industry
 
@@ -43,7 +43,6 @@ theme:
 
 plugins:
   - search
-  - awesome-nav
 
 markdown_extensions:
 

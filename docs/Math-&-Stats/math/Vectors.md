@@ -16,12 +16,12 @@ $$\widehat{u}=\frac{\vec{v}}{\|\vec{v}\|}$$
 
 For two vectors $\vec{u} = \langle u_x, u_y, u_z \rangle$ and $\vec{v} = \langle v_x, v_y, v_z \rangle$, and a scalar $c$:
 
-- **Addition**: Add matching components together:\(\vec{u}+\vec{v}=\langle u_{x}+v_{x},u_{y}+v_{y},u_{z}+v_{z}\rangle \)
-- **Subtraction**: Subtract matching components:\(\vec{u}-\vec{v}=\langle u_{x}-v_{x},u_{y}-v_{y},u_{z}-v_{z}\rangle \)
-- **Scalar Multiplication**: Multiply every component by the scalar:\(c\vec{v}=\langle cv_{x},cv_{y},cv_{z}\rangle \)
+- **Addition**: Add matching components together: \(\vec{u}+\vec{v}=\langle u_{x}+v_{x},u_{y}+v_{y},u_{z}+v_{z}\rangle \)
+- **Subtraction**: Subtract matching components: \(\vec{u}-\vec{v}=\langle u_{x}-v_{x},u_{y}-v_{y},u_{z}-v_{z}\rangle \)
+- **Scalar Multiplication**: Multiply every component by the scalar: \(c\vec{v}=\langle cv_{x},cv_{y},cv_{z}\rangle \)
 
 ### 2. Magnitude Formula
-Derived from the Pythagorean theorem, the magnitude of a vector is the square root of the sum of its squared components:\(\|\vec{v}\|=\sqrt{v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}\)
+Derived from the Pythagorean theorem, the magnitude of a vector is the square root of the sum of its squared components: \(\|\vec{v}\|=\sqrt{v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}\)
 
 ### 3. Geometric Multiplication Rule
 
@@ -37,8 +37,8 @@ The magnitude of the cross product is given by \(\Vert\vec{u} \times \vec{v}\Ver
 
 ## III. Key Geometric Rules
 
-- **Orthogonality (Perpendicularity)**: Two non-zero vectors are perpendicular if and only if their dot product equals zero:\(\vec{u}\cdot \vec{v}=0\iff \vec{u}\perp \vec{v}\)
-- **Parallelism**: Two vectors are parallel if one is a scalar multiple of the other, meaning their cross product results in the zero vector:\(\vec{u}\times \vec{v}=\vec{0}\iff \vec{u}\parallel \vec{v}\)
+- **Orthogonality (Perpendicularity)**: Two non-zero vectors are perpendicular if and only if their dot product equals zero: \(\vec{u}\cdot \vec{v}=0\iff \vec{u}\perp \vec{v}\)
+- **Parallelism**: Two vectors are parallel if one is a scalar multiple of the other, meaning their cross product results in the zero vector: \(\vec{u}\times \vec{v}=\vec{0}\iff \vec{u}\parallel \vec{v}\)
 - **Vector Projection**: The shadow of vector \(\vec{u}\) cast onto vector \(\vec{v}\) is calculated as:\(\text{proj}_{\vec{v}}\vec{u}=\left(\frac{\vec{u}\cdot \vec{v}}{\|\vec{v}\|^{2}}\right)\vec{v}\)
 
 ## IV. Vector Properties

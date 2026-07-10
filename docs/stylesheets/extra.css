@@ -26,8 +26,8 @@ body {
     font-weight: 400;
     color: #003881;
 }
-.md-typeset h2 {color: #0148a3;},
-.md-typeset h3,
+.md-typeset h2 {color: #0148a3;}
+.md-typeset h3  {color: #003cb4;}
 .md-typeset h4 {
     font-weight: 400;
 }
@@ -168,4 +168,98 @@ body {
 
 .md-content__inner {
     padding-top: 0rem;
+}
+
+/* Folder titles - Light mode */
+.md-nav--primary
+> .md-nav__list
+> .md-nav__item
+> .md-nav
+> .md-nav__list
+> .md-nav__item--nested
+> .md-nav__link{
+    color: #003881 !important;
+    font-weight: 600;
+    font-size: 0.75rem;
+}
+
+/* Folder titles - Dark mode */
+[data-md-color-scheme="slate"] .md-nav--primary
+> .md-nav__list
+> .md-nav__item
+> .md-nav
+> .md-nav__list
+> .md-nav__item--nested
+> .md-nav__link {
+    color: #6FAEFF !important;
+}
+
+/* 4-column grid */
+.grid-4 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+}
+
+.grid-card {
+    border: 1px solid var(--md-default-fg-color--lightest);
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: left;
+    background: var(--md-default-bg-color);
+}
+
+.grid-card h4 {
+    margin-top: 0;
+}
+
+/* Two-column grid */
+.grid-2 {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem;
+    margin: 1rem 0;
+    align-items: left;
+}
+
+/* Responsive: stack on smaller screens */
+@media screen and (max-width: 900px) {
+    .grid-2 {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Optional card styling */
+.grid-card {
+    padding: 0.5rem;
+}
+
+/* Make images responsive */
+.grid-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+/* Card title */
+.grid-card h3,
+.grid-card h4 {
+    margin: 0 0 0.3rem;
+    font-weight: 600;
+    text-align: center ;
+}
+
+/* Paragraphs */
+.grid-card p {
+    margin: 0.25rem 0;
+}
+
+/* Bullet lists */
+.grid-card ul {
+    margin: 0rem 0 0;
+}
+
+.grid-card li {
+    margin-bottom: 0.55rem;
+    line-height: 1.55;
 }
