@@ -1,9 +1,8 @@
 site_url: https://amelia-ng.github.io/handbook/
 use_directory_urls: false
 
-site_name: Handbook for Data Science, ML, and AI in Automotive Industry
+site_name: Handbook
 
-site_description: With an application for Automotive industry
 
 theme:
   name: material
@@ -30,19 +29,17 @@ theme:
 
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.expand
     - navigation.tracking
-    - navigation.path
     - content.code.copy
     - navigation.footer
 
 plugins:
   - search
+  - awesome-nav
 
 markdown_extensions:
 

@@ -15,10 +15,10 @@ body {
     font-weight: 400 !important;
 }
 .md-header {
-    background-color: #0B1F3A !important;
+    background-color: #000000 !important;
 }
 .md-tabs {
-    background-color: #0B1F3A !important;
+    background-color: #000000 !important;
 } 
 
 .md-typeset h1 {
@@ -137,24 +137,25 @@ body {
 
 /* Smaller top header */
 .md-header {
-    min-height: 2rem;
+    min-height: 1rem;
 }
 
 .md-header__inner {
-    height: 2rem;
+    height: 1rem;
 }
 
 .md-header__title {
     font-size: 0.9rem;
+    padding-top: 0.2rem;
 }
 
 .md-header__button {
-    width: 1rem;
+    width: 2rem;
     height: 2rem;
 }
 /* Smaller navigation tabs */
 .md-tabs {
-    min-height: 2rem;
+    min-height: 0.5rem;
 }
 
 .md-tabs__link {
@@ -163,7 +164,7 @@ body {
 
 /* Reduce space between the top bar and page content */
 .md-main__inner {
-    margin-top: 0.1rem;
+    margin-top: -0.25rem;
 }
 
 .md-content__inner {
@@ -262,4 +263,33 @@ body {
 .grid-card li {
     margin-bottom: 0.55rem;
     line-height: 1.55;
+}
+
+.md-typeset table {
+    width: 100%;
+    table-layout: auto;
+}
+
+.md-typeset th,
+.md-typeset td {
+    white-space: normal;
+    word-break: normal;
+}
+
+
+.md-footer__inner,
+.md-footer-meta__inner {
+    min-height: -0.5rem;
+}
+
+.md-footer__link {
+    padding: 0.1rem 0.1rem;
+}
+
+.md-footer__title {
+    font-size: 0.75rem;
+}
+
+.md-footer__direction {
+    font-size: 0.7rem;
 }
