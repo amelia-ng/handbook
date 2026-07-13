@@ -36,6 +36,7 @@ theme:
     - navigation.tracking
     - content.code.copy
     - navigation.footer
+    - header.autohide
 
 plugins:
   - search
