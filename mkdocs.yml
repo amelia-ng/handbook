@@ -1,42 +1,28 @@
 site_url: https://amelia-ng.github.io/handbook/
-use_directory_urls: false
+use_directory_urls: true
 
 site_name: Handbook
 
 
 theme:
-  name: material
+  name: swan
 
   palette:
 
     - scheme: default
       primary: black
       accent: indigo
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-
-    - scheme: slate
-      primary: black
-      accent: indigo
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
 
   font:
     text: Lora
     code: JetBrains Mono
 
   features:
-    - navigation.tabs
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.expand
-    - navigation.tracking
     - content.code.copy
     - navigation.footer
-    - header.autohide
 
 plugins:
   - search
