@@ -1,4 +1,8 @@
-# Algorithms in Self-Driving Cars
+# M2.2.1. Algorithms in Self-Driving Cars
+
+<blockquote> 
+If the LaTex Math notation are not displayed correctly, please reload the site.
+</blockquote>
 
 ​Self-driving cars represent ​a revolutionary advancement in transportation, ​which are made possible by ​a complex combination of algorithms. ​These algorithms allow autonomous vehicles ​to **perceive their surroundings, ​make decisions, and ​safely navigate different environments**. 
 

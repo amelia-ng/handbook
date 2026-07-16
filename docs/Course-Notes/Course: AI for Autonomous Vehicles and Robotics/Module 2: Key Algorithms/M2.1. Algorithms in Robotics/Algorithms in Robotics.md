@@ -1,4 +1,8 @@
-# Algorithms in Robotics
+# M2.1.1. Algorithms in Robotics
+
+<blockquote> 
+If the LaTex Math notation are not displayed correctly, please reload the site.
+</blockquote>
 
 ​Robotic systems have advanced significantly, ​thanks to the development and ​application of advanced algorithms. ​These algorithms enable robots to ​perform complex tasks on their own, ​from navigating uncertain environments ​to manipulating objects with precision. ​To understand how robots work across various industries, ​it's important to graph these core algorithms. ​
 
