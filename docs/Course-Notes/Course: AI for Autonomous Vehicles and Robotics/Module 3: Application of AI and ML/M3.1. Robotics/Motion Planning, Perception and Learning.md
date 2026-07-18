@@ -1,8 +1,10 @@
-# Motion Planning, Perception and Learning in Robotics
+# M3.1.1 Motion Planning, Perception and Learning in Robotics
 
-<blockquote>
+<blockquote> 
+If the LaTex Math notation are not displayed correctly, please reload the site.
+</blockquote>
+
 Motion planning, perception, and ​learning are essential for developing autonomous, ​intelligent robots that can ​navigate complex environments.
-</blockquote> 
 
 ## 1. Motion Planning
 

@@ -1,0 +1,4 @@
+nav:
+  - "State Estimation and Localization.md"
+  - "Intro to SLAM.md"
+  - "SLAM Algorithms.md"
