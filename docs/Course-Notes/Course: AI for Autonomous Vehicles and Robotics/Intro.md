@@ -1,4 +1,4 @@
-# AI for Autonomous Driving and Robotics Course Notes
+# Introduction
 
 Course Link: [Coursera x University of Michigan]("https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics#outcomes")
 
