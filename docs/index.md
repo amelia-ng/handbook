@@ -18,9 +18,9 @@ The handbook will include the following content
 
 *Notes from short courses*
 
-[1. AI for Autonomous Vehicles and Robotics]("https://amelia-ng.github.io/ai-automotive-resources/Course-Notes/Course%3A%20AI%20for%20Autonomous%20Vehicles%20and%20Robotics/Intro/") by University of Michigan.
+[1. AI for Autonomous Vehicles and Robotics](https://amelia-ng.github.io/ai-automotive-resources/Course-Notes/Course%3A%20AI%20for%20Autonomous%20Vehicles%20and%20Robotics/Intro/) by University of Michigan.
 
-[2. Self-Driving Cars Specialization]("https://www.coursera.org/specializations/self-driving-cars") by University of Toronto
+[2. Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars) by University of Toronto
 
 - Course 1: Introduction for Self-Driving Cars
 - Course 2: State Estimation and Localization

@@ -1,6 +1,6 @@
 # Introduction
 
-Course Link: [Coursera x University of Michigan]("https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics#outcomes")
+Course Link: [Coursera x University of Michigan](https://www.coursera.org/learn/ai-for-autonomous-vehicles-and-robotics#outcomes)
 
 “AI for Autonomous Vehicles and Robotics” delves into the groundbreaking intersection of AI and autonomous systems, including autonomous vehicles and robotics. This course offers a deep exploration of how machine learning (ML) algorithms and techniques are revolutionizing the field of autonomy, enabling vehicles and robots to perceive, learn, and make decisions in dynamic environments. 
 
@@ -10,8 +10,10 @@ The course also explores advanced topics in machine learning for autonomy, inclu
 
 **Table of Content**
 
-[Module 1: Key Concepts and Fundamentals]("https://amelia-ng.github.io/handbook/Course-Notes/Course%3A%20AI%20for%20Autonomous%20Vehicles%20and%20Robotics/Module%201%3A%20Key%20Concepts/M1.1.%20Overview%20of%20Robotics%20Techniques/")
+Module 1: Key Concepts and Fundamentals
 
-[Module 2: Key Algorithms for Robotics and Self-Driving Cars]("https://amelia-ng.github.io/handbook/Course-Notes/Course%3A%20AI%20for%20Autonomous%20Vehicles%20and%20Robotics/Module%202%3A%20Key%20Algorithms/M2.1.%20Algorithms%20in%20Robotics/Algorithms%20in%20Robotics/")
+Module 2: Key Algorithms for Robotics and Self-Driving Cars
 
-[Module 3: Applications of AI and ML in Robotics and Autonomous Driving]("https://amelia-ng.github.io/handbook/Course-Notes/Course%3A%20AI%20for%20Autonomous%20Vehicles%20and%20Robotics/Module%203%3A%20Application%20of%20AI%20and%20ML/M3.1.%20Robotics/Motion%20Planning%2C%20Perception%20and%20Learning/")
+Module 3: Applications of AI and ML in Robotics and Autonomous Driving
+
+Click **Next** on the bottom left of the page to view the lecture!
